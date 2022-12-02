@@ -2,6 +2,7 @@ var d = document.getElementById("dibujito");
 var lienzo = d.getContext("2d");
 var lineas = 30;
 var l = 0;
+var m = 0;
 var yi, xf;
 
 /* while (l < lineas){
